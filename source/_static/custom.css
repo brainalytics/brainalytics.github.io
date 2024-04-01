@@ -1,9 +1,8 @@
 div.body { max-width: inherit !important;}
 
-
-
 div.main-page > ul > li.toctree-l1 > a { 
     font-size: 30px;
+    color: #444 !important;
 }
 
 div.main-page > ul > li.toctree-l1 > a:visited { 
