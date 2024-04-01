@@ -1,0 +1,23 @@
+div.body { max-width: inherit !important;}
+
+
+
+div.main-page > ul > li.toctree-l1 > a { 
+    font-size: 30px;
+}
+
+div.main-page > ul > li.toctree-l1 > a:visited { 
+    color: #444 !important;
+}
+
+div.main-page > ul > li.toctree-l1 {
+    list-style-type:none;    
+}
+
+div.main-page > ul {
+    margin: 10px 0 10px 0px !important;
+}
+
+div.main-page > ul > li {
+    padding-top: 20px !important;
+}
