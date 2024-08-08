@@ -49,4 +49,5 @@ https://www.youtube.com/watch?v=XCTukXz9DnU
 | *TechLead Conf, Moscow, 2022* 
 | https://techleadconf.ru/2022/abstracts/8801
 
-
+| *Habr* 
+| https://habr.com/ru/companies/usetech/news/676196/
